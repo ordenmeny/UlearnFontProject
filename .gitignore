@@ -1,0 +1,6 @@
+proxy
+react_frontend
+django_backend
+.env
+.idea
+.DS_Store
